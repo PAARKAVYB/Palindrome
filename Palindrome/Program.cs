@@ -18,7 +18,7 @@ namespace PALINDROME
             }
             else
             {
-                Console.WriteLine("The given string word is not Palindrome", reverse);
+                Console.WriteLine("The given string is not Palindrome", reverse);
             }
             Console.ReadLine();
         }
